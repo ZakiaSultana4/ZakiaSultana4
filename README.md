@@ -1,6 +1,6 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mohinranait/mohinranait/main/images/MERN%20Stack%20Developer.png "San Juan Mountains")
 
-## I'm Md. Ebrahim 👨‍💻
+## I'm Zakia Sultana 👨‍💻
 
 #### My Objective
 
