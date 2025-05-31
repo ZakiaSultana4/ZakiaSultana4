@@ -76,22 +76,15 @@
 
 ## 🌟 Top Repositories
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ZakiaSultana4/bookland-client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bookland-client&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ZakiaSultana4/bycycle-client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bycycle-client&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/ZakiaSultana4/bookland-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bookland-client&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/ZakiaSultana4/bycycle-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bycycle-client&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
 
 ---
 
