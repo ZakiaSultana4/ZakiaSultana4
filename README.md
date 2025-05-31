@@ -75,7 +75,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
   </table>
 </div>
 
----
 
 ### 🧾 GitHub Language & Repo Insights
 
@@ -85,7 +84,7 @@ I'm a passionate and creative full-stack developer with a knack for building eng
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiaSultana4&theme=radical" />
 </p>
 
----
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -93,7 +92,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZakiaSultana4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
 
 ### 🐍 GitHub Contributions Snake
 
