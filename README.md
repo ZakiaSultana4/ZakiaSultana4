@@ -57,24 +57,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 
 ## 📈 GitHub Activities
 
-## 🌟 Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ZakiaSultana4/Book-Land-Frontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ### 🧾 GitHub Language & Repo Insights
 
@@ -92,6 +74,23 @@ I'm a passionate and creative full-stack developer with a knack for building eng
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZakiaSultana4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+### 🌟 Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Book-Land-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🐍 GitHub Contributions Snake
 
