@@ -191,7 +191,6 @@ Coming soon: Full-stack dashboards with charting, analytics, role management, an
 💻 Built using: React, Tailwind, and TypeScript  
 
 
----
 
 ## 👣 Visitor Count
 
@@ -199,7 +198,5 @@ Coming soon: Full-stack dashboards with charting, analytics, role management, an
   <img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Visitors&color=ff69b4&style=flat-square" alt="Visitor badge" />
 </p>
 
-
----
 
 _Thanks for visiting my profile! Let’s build something awesome together 🚀_
