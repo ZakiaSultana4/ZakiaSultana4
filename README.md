@@ -81,8 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical" />
 </p>
 
-
-
 ---
 
 ## 📈 GitHub Activity
@@ -92,13 +90,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZakiaSultana4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
-
-### 🐍 GitHub Contributions Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 ---
 
 ### 📊 GitHub Stats
@@ -118,6 +109,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakiaSultana4&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiaSultana4&theme=radical" />
 </p>
+
+---
+
+### 🐍 GitHub Contributions Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
