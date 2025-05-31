@@ -77,13 +77,10 @@
 ## 🌟 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/ZakiaSultana4/bookland-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bookland-client&theme=radical&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/ZakiaSultana4/bycycle-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bycycle-client&theme=radical&hide_border=true&border_radius=15" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bycycle-client&theme=radical" />
 </p>
+
 
 
 ---
@@ -99,10 +96,9 @@
 
 ### 🐍 GitHub Contributions Snake
 
-<p align="center">
-  <img src="https://github.com/ZakiaSultana4/ZakiaSultana4/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ### 📊 GitHub Stats
@@ -136,8 +132,9 @@
 ## 👣 Visitor Count
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZakiaSultana4&icon=0&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Visitors&color=ff69b4&style=flat-square" alt="Visitor badge" />
 </p>
+
 
 ---
 
