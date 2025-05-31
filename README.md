@@ -169,9 +169,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 ### 🧾 Admin Dashboards (WIP Preview)
 Coming soon: Full-stack dashboards with charting, analytics, role management, and secure APIs built using **Shadcn**, **Zod**, and **JWT** 🔐
 
-
----
-
 ## 🎖️ Badges 
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=flat-square&logo=prettier&logoColor=white" />
