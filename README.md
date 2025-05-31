@@ -1,96 +1,76 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mohinranait/mohinranait/main/images/MERN%20Stack%20Developer.png "San Juan Mountains")
-
-## I'm Zakia Sultana 👨‍💻
-
-#### My Objective
-
-I'm a MERN Stack developer. I always try to do something unique from everyone and create highly functional web applications. In the last one year I have improved my skills by working with React,Nodejs, Express and MongoDB. Let's be able to deal with any error due to it. I would also like to say, I am always updating my skills. 👋
-
-### Contact with me
-
-📧 sultanazaia711@gmail.com
-
-<p align="">
-  <a href="https://www.linkedin.com/" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
-  <a href="https://facebook.com/mohinranait" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
+<!-- COVER PHOTO -->
+<p align="center">
+  <img src="[https://your-cover-url.com/cover-image.jpg](https://media.licdn.com/dms/image/v2/D5616AQGFNLWNaxQycA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707958201984?e=1753920000&v=beta&t=ItFQz_GXUxxRcixA0ENdb4oeJ27yNDbA8mw5rGxWrs0)" alt="cover image" width="100%" />
 </p>
 
-### Profile State
+<h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
+<h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+---
 
-## My Skill set
+## 📬 Connect with Me
 
-### Frontend
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
+---
 
-### Backend
+## 💡 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
+- 🔭 I’m currently working on: `Your Project Name`
+- 🌱 I’m currently learning: `React | Node.js | APIs | Cloud`
+- 👯 I’m looking to collaborate on: `Open Source & Real-world Projects`
+- 💬 Ask me about: `Web Dev, GitHub Tips, or Anything Tech!`
+- ⚡ Fun Fact: `I can turn ☕ into scalable code.`
 
-### Tools
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6)](https://skillicons.dev)
+## 🛠️ Languages & Tools
 
-## Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+</p>
 
-✔ <b>Uminex E-commerce website using MERN Stack</b> -
-( <i> 2023 – Present </i>)
+---
 
-- Role base firebase authentication
-- Live chat ( admin and customers)
-- Frontend: React.js, TanStackQuery, axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Live: https://uminex-mern-app.web.app/
-- Github: https://github.com/mohinranait/uminex-ecommerce-client
-- A normal visitor can create an account here and purchase the product of his choice. Payment can be made through Stripe. You can view your order history on your dashboard. Get analytics about its activity, orders. he wanted Can apply to become an admin.
-- An admin has the maximum power of this website. Who can control all these websites.
-- <b>Note</b>: This is my private repository. Contact me if you want to see.
-  <br>
-  <br>
-  <br>
+## 📈 GitHub Stats
 
-✔ <b>HomeRent - (MERN)</b> -
-( <i> 2024 </i>)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakiaSultana4&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiaSultana4&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiaSultana4&layout=compact&theme=radical" width="47%" />
+</p>
 
-- Frontend: Next.JS, Redux, SCSS, Axios,
-- Backend: Node.js and Express.js ( Mongoose)
-- Database: MongoDB
-- JWT authenticaion and Secure API
-- All Responsive
-- Live: https://rent-house-using-nextjs.vercel.app/
-- Github: https://github.com/mohinranait/houseRent-task-using-nextjs
-- RentHouse Appoinment management website created by Latest techonology. Any visitor created an a account and select her role (Renter, Owner). Owner user can be publish a appoinment. and manage her appoinment in your owner dashboard. and user base role can be booking appoinment. There appoinment already booking present monthe.. then can't be bookent current month.  
-  <br>
-  <br>
-  <br>
+---
 
-✔ <b>CourseLog - MERN</b> <i>2023</i>
+## 🏆 GitHub Trophies
 
-- Frontend: React.js, Axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Database : MongoDB
-- JWT authenticaion
-- Responsive layout
-- Live: https://online-course-silling-website.web.app/
-- Github: https://github.com/mohinranait/online-course-selling
-- Online course sales website built with MERN stack. Any login user can enroll in the course. And
-  can sell the course. Modules can be uploaded on a weekly basis..
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZakiaSultana4&theme=radical&column=4" />
+</p>
 
- <br>
- <br>
- <br>
+---
 
-✔ <b>PMOR | Online conversation website using posts</b> -
-( <i> 2023 </i>)
+## 📌 Pinned Projects
 
-- Frontend: React.js, TanStackQuery, Axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Database: MongoDB
-- Live: https://assignment-12-5d967.web.app/
-- Github: https://github.com/mohinranait/assignment-12-client
-- A user can create an account. When creating an account, he will be a normal user, and he will be able to share up to five posts. If he updates his profile with $30 payment by stripe. Then he can post unlimited. Posts can be shared on social media. Users can comment if they want. Other users can report that comment. Admin can delete or publish that report comment.
-  <br>
-  <br>
-  <br>
+Here are a few highlights from my GitHub:
+
+- [🔗 Your Project 1](https://github.com/ZakiaSultana4/your-project-1) – short description
+- [🔗 Your Project 2](https://github.com/ZakiaSultana4/your-project-2) – short description
+
+---
+
+## ✨ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+_Thanks for visiting my profile! Let’s create something awesome together 🚀_
+
