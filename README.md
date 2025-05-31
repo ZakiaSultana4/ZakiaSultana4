@@ -15,9 +15,7 @@
 
 
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Front-End+Developer;React+%7C+Next.js+Enthusiast;Clean+Code+Lover;Tailwind+CSS+Designer;MongoDB+%7C+Node.js+Backend+Builder;Tech+Learner+%26+Problem+Solver;Open+Source+Contributor;Always+Improving+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ZakiaSultana4"><img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20Views&color=ff69b4&style=flat" alt="ZakiaSultana4" /></a>
