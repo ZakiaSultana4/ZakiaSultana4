@@ -94,6 +94,18 @@ I'm a passionate and creative full-stack developer with a knack for building eng
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Scholarship-Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Scholarship-Client&theme=radical&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/JobHub-Client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=JobHub-Client&theme=radical&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
