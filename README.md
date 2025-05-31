@@ -6,6 +6,10 @@
 <h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 
+<p align="center">
+  <a href="https://github.com/ZakiaSultana4"><img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20Views&color=brightgreen&style=flat" alt="ZakiaSultana4" /></a>
+</p>
+
 ---
 
 ## 📬 Connect with Me
@@ -13,8 +17,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zakia-sultana4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:sultanazakia711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,31 +33,54 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mongoose,nextjs,tailwind,git,github,vscode,figma,vercel" />
-</p>
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white) |
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📚 [BookLand](https://github.com/ZakiaSultana4/bookland-client)  
-**Live:** [booklandclient.vercel.app](https://booklandclient.vercel.app)  
-**Features:**
-- Browse, filter, and borrow books from a virtual library
-- Authentication system with user roles
-- Admin dashboard to manage books and users
-- Responsive UI with Tailwind CSS
+### 📚 BookLand  
+🔗 [Repository](https://github.com/ZakiaSultana4/bookland-client) • 🌐 [Live Site](https://booklandclient.vercel.app)
+
+> A virtual library platform for book lovers
+
+**✨ Features:**
+- 🔍 Browse, filter, and borrow books
+- 🔐 Role-based authentication & authorization
+- 📊 Admin dashboard for inventory & users
+- 💅 Fully responsive with Tailwind CSS
 
 ---
 
-### 🚲 [Bicycle Zone](https://github.com/ZakiaSultana4/bycycle-client)  
-**Live:** [bycycle-client.vercel.app](https://bycycle-client.vercel.app)  
-**Features:**
-- Marketplace for new & used bicycles
-- Secure login system and protected routes
-- Dynamic product listings and booking system
-- Stripe payment integration
+### 🚲 Bicycle Zone  
+🔗 [Repository](https://github.com/ZakiaSultana4/bycycle-client) • 🌐 [Live Site](https://bycycle-client.vercel.app)
+
+> Marketplace for bicycles with secure transactions
+
+**✨ Features:**
+- 🛒 Buy, sell, and manage bicycles
+- 🔐 Protected routes for users and admins
+- 💳 Stripe-powered secure payments
+- 📱 Mobile-friendly, fast and sleek UI
+
+---
+
+## 💗 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/ZakiaSultana4/bookland-client">
+    <img src="https://img.shields.io/badge/BookLand-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://github.com/ZakiaSultana4/bycycle-client">
+    <img src="https://img.shields.io/badge/Bicycle%20Zone-FF69B4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -68,7 +93,7 @@
 
 ---
 
-### 📊 GitHub Contributions Snake
+### 🐍 GitHub Contributions Snake
 
 <p align="center">
   <img src="https://github.com/ZakiaSultana4/ZakiaSultana4/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
