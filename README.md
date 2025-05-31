@@ -1,15 +1,17 @@
 <!-- 🌄 COVER PHOTO -->
 <p align="center">
-  <img src="https://jehrfbtl7l.ufs.sh/f/soyLwyt7O15DNilDq9YnOSvDHYP7FijZkUKol4531zyxp90r" alt="Zakia's Cover" width="100%" />
+  <img src="https://jehrfbtl7l.ufs.sh/f/soyLwyt7O15DsVVKRyjt7O15DVXtFMdIhAZPebKfmTjH6YRU" alt="Zakia's Cover" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/ZakiaSultana4"><img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20Views&color=brightgreen&style=flat" alt="ZakiaSultana4" /></a>
+  <a href="https://www.linkedin.com/in/zakia-sultana4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sultanazakia711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 📬 Connect with Me
@@ -23,7 +25,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building full stack web applications with modern technologies
+- 🔭 Currently building full-stack web applications with modern technologies
 - 🌱 Exploring **TypeScript**, **Cloud Functions**, and **API Integration**
 - 👯 Open to collaboration on real-world projects and open-source contributions
 - 🎯 Goal: Create seamless user experiences and scalable applications
@@ -34,7 +36,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mongoose,nextjs,tailwind,bootstrap,git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mongoose,nextjs,tailwind,git,github,vscode,figma,vercel" />
 </p>
 
 ---
