@@ -95,9 +95,9 @@
 
 ### 🐍 GitHub Contributions Snake
 
-<p align="center">
-  <img src="https://github.com/ZakiaSultana4/ZakiaSultana4/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
