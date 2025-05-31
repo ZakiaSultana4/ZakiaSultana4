@@ -6,8 +6,9 @@
 <h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=435&lines=Mern-Stack+Developer;Front-End+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Front-End+Developer;React+%7C+Next.js+Enthusiast;Clean+Code+Lover;Tailwind+CSS+Designer;MongoDB+%7C+Node.js+Backend+Builder;Tech+Learner+%26+Problem+Solver;Open+Source+Contributor;Always+Improving+🚀" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://github.com/ZakiaSultana4"><img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20Views&color=ff69b4&style=flat" alt="ZakiaSultana4" /></a>
 </p>
@@ -50,42 +51,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 BookLand  
-🔗 [Repository](https://github.com/ZakiaSultana4/bookland-client) • 🌐 [Live Site](https://booklandclient.vercel.app)
-
-> 📖 A virtual library management platform designed to empower readers and admins.
-
-**✨ Features:**
-- 🔍 Search & filter books by category and availability
-- 🔐 Role-based authentication: User, Admin
-- 🧩 Realtime borrow & return tracking with dynamic status
-- 🛠 Built with **React**, **Tailwind CSS**, **Firebase Auth**, **MongoDB**, **Express**
-- 📊 Admin dashboard: manage books, categories, and user accounts
-- 🌐 Fully responsive UI/UX optimized for mobile and desktop
-
----
-
-### 🚲 Bicycle Zone  
-🔗 [Repository](https://github.com/ZakiaSultana4/bycycle-client) • 🌐 [Live Site](https://bycycle-client.vercel.app)
-
-> 🚴 A bicycle sales and rental platform with secure payments and real-time booking.
-
-**✨ Features:**
-- 🛒 Product listing with filtering and booking
-- 🔐 User authentication and role-based access control
-- 💳 Integrated **Stripe** for secure checkout
-- 📦 Add-to-cart, orders, and purchase history
-- 🛠 Tech: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**, **JWT**, **Stripe**
-- 📱 Mobile-first design with smooth transitions and UI animations
-
-
-### 🧾 Admin Dashboards (WIP Preview)
-Coming soon: Full-stack dashboards with charting, analytics, role management, and secure APIs built using **Shadcn**, **Zod**, and **JWT** 🔐
-
-
----
 
 ## 🌟 Top Repositories
 
@@ -133,6 +98,42 @@ Coming soon: Full-stack dashboards with charting, analytics, role management, an
 
 ---
 
+## 📌 Featured Projects
+
+### 📚 BookLand  
+🔗 [Repository](https://github.com/ZakiaSultana4/bookland-client) • 🌐 [Live Site](https://booklandclient.vercel.app)
+
+> 📖 A virtual library management platform designed to empower readers and admins.
+
+**✨ Features:**
+- 🔍 Search & filter books by category and availability
+- 🔐 Role-based authentication: User, Admin
+- 🧩 Realtime borrow & return tracking with dynamic status
+- 🛠 Built with **React**, **Tailwind CSS**, **Firebase Auth**, **MongoDB**, **Express**
+- 📊 Admin dashboard: manage books, categories, and user accounts
+- 🌐 Fully responsive UI/UX optimized for mobile and desktop
+
+---
+
+### 🚲 Bicycle Zone  
+🔗 [Repository](https://github.com/ZakiaSultana4/bycycle-client) • 🌐 [Live Site](https://bycycle-client.vercel.app)
+
+> 🚴 A bicycle sales and rental platform with secure payments and real-time booking.
+
+**✨ Features:**
+- 🛒 Product listing with filtering and booking
+- 🔐 User authentication and role-based access control
+- 💳 Integrated **Stripe** for secure checkout
+- 📦 Add-to-cart, orders, and purchase history
+- 🛠 Tech: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**, **JWT**, **Stripe**
+- 📱 Mobile-first design with smooth transitions and UI animations
+
+
+### 🧾 Admin Dashboards (WIP Preview)
+Coming soon: Full-stack dashboards with charting, analytics, role management, and secure APIs built using **Shadcn**, **Zod**, and **JWT** 🔐
+
+
+---
 ## 👣 Visitor Count
 
 <p align="center">
