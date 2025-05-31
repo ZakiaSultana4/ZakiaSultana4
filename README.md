@@ -3,9 +3,16 @@
   <img src="https://jehrfbtl7l.ufs.sh/f/soyLwyt7O15DsVVKRyjt7O15DVXtFMdIhAZPebKfmTjH6YRU" alt="Zakia's Cover" width="100%" />
 </p>
 
+<!-- Animated Intro Line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Zakia+Sultana" alt="Zakia Intro Typing" />
 </p>
+
+<!-- Animated Skills Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Front-End+Developer;React+%7C+Next.js+Enthusiast;Clean+Code+Lover;Tailwind+CSS+Designer;MongoDB+%7C+Node.js+Backend+Builder;Tech+Learner+%26+Problem+Solver;Open+Source+Contributor;Always+Improving+🚀" alt="Typing SVG" />
+</p>
+
 
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 <p align="center">
@@ -101,11 +108,20 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 ---
 
 
-## 🚀 Contributor Highlights
+## 🚀 Contributor Highlights & GitHub Achievements
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ZakiaSultana4&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>👥 Top Contributors</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ZakiaSultana4&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🏅 GitHub Achievements</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=ZakiaSultana4&theme=radical&column=3&margin-w=10&margin-h=15" />
+    </td>
+  </tr>
+</table>
 
 ---
 
