@@ -89,7 +89,7 @@ I'm a passionate and creative full-stack developer with a knack for building eng
     <tr>
       <td>
         <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
