@@ -26,11 +26,14 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building full-stack web applications with modern technologies
-- 🌱 Exploring **TypeScript**, **Cloud Functions**, and **API Integration**
-- 👯 Open to collaboration on real-world projects and open-source contributions
-- 🎯 Goal: Create seamless user experiences and scalable applications
-- ☕ Fun Fact: Turning coffee into clean, readable code since day one
+I'm a passionate and creative full-stack developer with a knack for building engaging, responsive, and user-friendly web applications. I enjoy transforming ideas into reality using code and strive to write clean, efficient, and scalable solutions.
+
+- 🔭 Currently building **modern full-stack applications** using the MERN stack
+- 🧠 Constantly learning & exploring **TypeScript**, **cloud integrations**, and **DevOps fundamentals**
+- 🎯 Goals: Grow as a developer, contribute to open-source, and build products that matter
+- 🤝 Open to freelance projects, team collaborations, and mentorship opportunities
+- 💬 Ask me about **React, Node.js, REST APIs, authentication, or deployment**
+- 💡 Fun Fact: I’m fueled by caffeine, creativity, and curiosity 🌟
 
 ---
 
@@ -52,26 +55,35 @@
 ### 📚 BookLand  
 🔗 [Repository](https://github.com/ZakiaSultana4/bookland-client) • 🌐 [Live Site](https://booklandclient.vercel.app)
 
-> A virtual library platform for book lovers
+> 📖 A virtual library management platform designed to empower readers and admins.
 
 **✨ Features:**
-- 🔍 Browse, filter, and borrow books
-- 🔐 Role-based authentication & authorization
-- 📊 Admin dashboard for inventory & users
-- 💅 Fully responsive with Tailwind CSS
+- 🔍 Search & filter books by category and availability
+- 🔐 Role-based authentication: User, Admin
+- 🧩 Realtime borrow & return tracking with dynamic status
+- 🛠 Built with **React**, **Tailwind CSS**, **Firebase Auth**, **MongoDB**, **Express**
+- 📊 Admin dashboard: manage books, categories, and user accounts
+- 🌐 Fully responsive UI/UX optimized for mobile and desktop
 
 ---
 
 ### 🚲 Bicycle Zone  
 🔗 [Repository](https://github.com/ZakiaSultana4/bycycle-client) • 🌐 [Live Site](https://bycycle-client.vercel.app)
 
-> Marketplace for bicycles with secure transactions
+> 🚴 A bicycle sales and rental platform with secure payments and real-time booking.
 
 **✨ Features:**
-- 🛒 Buy, sell, and manage bicycles
-- 🔐 Protected routes for users and admins
-- 💳 Stripe-powered secure payments
-- 📱 Mobile-friendly, fast and sleek UI
+- 🛒 Product listing with filtering and booking
+- 🔐 User authentication and role-based access control
+- 💳 Integrated **Stripe** for secure checkout
+- 📦 Add-to-cart, orders, and purchase history
+- 🛠 Tech: **React**, **Tailwind CSS**, **Node.js**, **MongoDB**, **JWT**, **Stripe**
+- 📱 Mobile-first design with smooth transitions and UI animations
+
+
+### 🧾 Admin Dashboards (WIP Preview)
+Coming soon: Full-stack dashboards with charting, analytics, role management, and secure APIs built using **Shadcn**, **Zod**, and **JWT** 🔐
+
 
 ---
 
@@ -86,21 +98,20 @@
 
 ## 📈 GitHub Activity
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakiaSultana4&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZakiaSultana4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
 ### 🧾 GitHub Language & Repo Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakiaSultana4&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZakiaSultana4&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiaSultana4&theme=radical" />
+</p>
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakiaSultana4&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZakiaSultana4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
