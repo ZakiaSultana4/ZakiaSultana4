@@ -1,6 +1,6 @@
 <!-- COVER PHOTO -->
 <p align="center">
-  <img src="[https://your-cover-url.com/cover-image.jpg](https://media.licdn.com/dms/image/v2/D5616AQGFNLWNaxQycA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707958201984?e=1753920000&v=beta&t=ItFQz_GXUxxRcixA0ENdb4oeJ27yNDbA8mw5rGxWrs0)" alt="cover image" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGFNLWNaxQycA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707958201984?e=1753920000&v=beta&t=ItFQz_GXUxxRcixA0ENdb4oeJ27yNDbA8mw5rGxWrs0)" alt="cover image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
@@ -59,8 +59,8 @@
 
 Here are a few highlights from my GitHub:
 
-- [🔗 Your Project 1](https://github.com/ZakiaSultana4/your-project-1) – short description
-- [🔗 Your Project 2](https://github.com/ZakiaSultana4/your-project-2) – short description
+- [🔗 My Project 1]([https://github.com/ZakiaSultana4/your-project-1](https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend)) – short description
+- [🔗 My Project 2]([https://github.com/ZakiaSultana4/your-project-2](https://github.com/ZakiaSultana4/Book-Land-Frontend)) – short description
 
 ---
 
