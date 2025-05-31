@@ -179,16 +179,12 @@ Coming soon: Full-stack dashboards with charting, analytics, role management, an
   <img src="https://img.shields.io/badge/Focus-React%20%26%20Node.js-ff69b4?style=flat-square" />
 </p>
 
----
-
 
 ## 💬 Let's Collaborate or Work Together
 - 💡 I’m open to contributing to open-source projects, freelance roles, or team-based web apps
 - 🛠️ Need help with React, APIs, or authentication? Let’s team up!
 - 📬 Message me via LinkedIn, Discord, or email for collaboration
 
-
----
 
 ### 🌐 Portfolio  
 📎 [Visit My Portfolio](https://your-portfolio-link.com)  
