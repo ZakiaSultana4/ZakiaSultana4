@@ -52,16 +52,6 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 ---
 
 
-## 🌟 Top Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical" />
-</p>
-
-
----
-
 ## 📈 GitHub Activity
 
 ### 🧾 GitHub Language & Repo Insights
@@ -87,6 +77,16 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+## 🌟 Top Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical" />
+</p>
+
 
 ---
 
