@@ -116,7 +116,7 @@ I'm a passionate and creative full-stack developer with a knack for building eng
     </td>
     <td align="center" width="50%">
       <h3>🏅 GitHub Achievements</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=ZakiaSultana4&theme=radical&column=3&margin-w=10&margin-h=15" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ZakiaSultana4&theme=radical&column=3&margin-w=5&margin-h=8" />
     </td>
   </tr>
 </table>
