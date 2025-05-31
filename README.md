@@ -171,6 +171,32 @@ Coming soon: Full-stack dashboards with charting, analytics, role management, an
 
 
 ---
+
+## 🎖️ Badges 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=flat-square&logo=prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves-Open%20Source-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Node.js-ff69b4?style=flat-square" />
+</p>
+
+---
+
+
+## 💬 Let's Collaborate or Work Together
+- 💡 I’m open to contributing to open-source projects, freelance roles, or team-based web apps
+- 🛠️ Need help with React, APIs, or authentication? Let’s team up!
+- 📬 Message me via LinkedIn, Discord, or email for collaboration
+
+
+---
+
+### 🌐 Portfolio  
+📎 [Visit My Portfolio](https://your-portfolio-link.com)  
+💻 Built using: React, Tailwind, and TypeScript  
+
+
+---
+
 ## 👣 Visitor Count
 
 <p align="center">
