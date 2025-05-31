@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Zakia Sultana</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 🛠 Tech Explorer</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Mern-Stack+Developer;Front-End+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff69b4&center=true&vCenter=true&width=435&lines=Mern-Stack+Developer;Front-End+Developer;" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/ZakiaSultana4"><img src="https://komarev.com/ghpvc/?username=ZakiaSultana4&label=Profile%20Views&color=brightgreen&style=flat" alt="ZakiaSultana4" /></a>
@@ -78,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=bycycle-client&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical" />
 </p>
 
 
