@@ -81,12 +81,34 @@ I'm a passionate and creative full-stack developer with a knack for building eng
 ---
 
 ## 🌟 Top Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=radical" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Book-Land-Frontend&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZakiaSultana4/Bi-Cycle-Store-Frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZakiaSultana4&repo=Bi-Cycle-Store-Frontend&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
